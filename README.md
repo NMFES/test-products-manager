@@ -5,7 +5,7 @@ Simple test task given me from employer. The goal of task was:
 3. User can edit his own product
 4. Registration
 
-DB dump located in work.sql.
+DB dump is located in work.sql.
 
 <img src="https://raw.githubusercontent.com/NMFES/test-products-manager/master/1.png" height="500">
 <img src="https://raw.githubusercontent.com/NMFES/test-products-manager/master/2.png" height="500">
